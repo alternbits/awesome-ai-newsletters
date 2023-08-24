@@ -3,6 +3,11 @@ Awesome AI Newsletters
 
 A curated list of AI Related Newsletters
 
+- [General AI Newsletters](#general)
+- [Prompts](#prompts)
+- [AI Jobs Newsletters](#ai-jobs)
+- [AI Newsletters for Professionals](#for-professionals)
+
 
 General
 --------
