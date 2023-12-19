@@ -12,16 +12,17 @@ A curated list of AI Related Newsletters
 General
 --------
 
-- [AI Breakfast](https://aibreakfast.beehiiv.com/?ref=altern.ai) - Curated weekly analysis of the latest AI projects, products, and news
+- [Mindstream](https://mindstream.news?ref=altern.ai) - The hottest AI newsletter around. News, opinions, polls and so much more.
+- [AI Breakfast](https://aibreakfast.beehiiv.com/?ref=altern.ai) - Curated weekly analysis of the latest AI projects, products, and news.
 - [Not A Bot](https://www.notabot.tech/?ref=altern.ai) - A free newsletter about AI, that's not written by AI. We bring the latest AI news to your inbox daily.
 - [The Neuron](https://theneurondaily.com/subscribe?ref=altern.ai) - Don't fall behind on AI. Get the AI trends and tools you need to know. 
 - [Superhuman](https://www.joinsuperhuman.ai/subscribe?ref=altern.ai) - Learn how to leverage AI to boost your productivity and accelerate your career.
-- [Death to Humans](https://deathtohumans.beehiiv.com/?ref=altern.ai) - Your daily AI briefing in 3 minutes or less
+- [Death to Humans](https://deathtohumans.beehiiv.com/?ref=altern.ai) - Your daily AI briefing in 3 minutes or less.
 - [FutureTools Weekly](https://futuretools.beehiiv.com/subscribe?ref=altern.ai) - 5 Innovative AI Tools, 3 Exciting News Articles, 3 Inspiring Videos, and 1 New Way to Make Money With AI... Delivered to your inbox weekly!
 - [The Loz Letter](https://www.loz.ai/subscribe?ref=altern.ai) - Insights & news into the wonderful world of AI.
 - [AI Hustle](https://aihustle.beehiiv.com/?ref=altern.ai) - Stay up to date with the latest news and developments in AI.
 - [AI Tool Report](https://aitoolreport.beehiiv.com/subscribe?ref=altern.ai) - We'll teach you how to save time and earn more with AI. 
-- [Syntha AI Newsletter](https://syntha.ai/?ref=altern.ai) - 5 minutes of Generative AI every week by PhD: cutting-edge techniques, innovative startups, and practical applications
+- [Syntha AI Newsletter](https://syntha.ai/?ref=altern.ai) - 5 minutes of Generative AI every week by PhD: cutting-edge techniques, innovative startups, and practical applications.
 - [Inside AI](https://inside.com/ai?ref=altern.ai). Weekly newsletter bringing you the latest in Artificial Intelligence, Robotics, and Neurotechnology.
 - [Import AI](https://twitter.us13.list-manage.com/subscribe?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c). The latest breakthroughs, applications and foul-ups in artificial intelligence. 
 
@@ -29,7 +30,7 @@ General
 Prompts
 --------
 
-- [Prompts Daily](https://www.neatprompts.com/subscribe?ref=altern.ai) - Tools and tips to become a marketing and productivity genius at work
+- [Prompts Daily](https://www.neatprompts.com/subscribe?ref=altern.ai) - Tools and tips to become a marketing and productivity genius at work.
 
 
 AI Jobs
