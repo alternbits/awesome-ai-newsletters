@@ -42,6 +42,7 @@ AI Jobs
 For Professionals
 --------
 
+- [The Productivity Newsletter](https://newsletter.productivity.directory) - Make a Productive Life
 - [AI Marketing School](https://aimarketingschool.beehiiv.com/?ref=altern.ai) -The latest AI Marketing tools, techniques, and news delivered biweekly.
 - [Data Elixir](https://dataelixir.com/?ref=altern.ai). A weekly newsletter of the best data science news and resources from around the web. [Archive](https://dataelixir.com/newsletters/).
 - [Artificial Intelligence Weekly](http://aiweekly.co/?ref=altern.ai). A weekly collection of the best news and resources on Artificial Intelligence amd Machine Learning.
