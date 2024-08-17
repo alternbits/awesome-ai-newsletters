@@ -12,6 +12,7 @@ A curated list of AI Related Newsletters
 General
 --------
 
+- [There's an AI Newsletter](https://newsletter.theresanai.com) - The Best AI Newsletter
 - [Mindstream](https://mindstream.news?ref=altern.ai) - The hottest AI newsletter around. News, opinions, polls and so much more.
 - [AI Breakfast](https://aibreakfast.beehiiv.com/?ref=altern.ai) - Curated weekly analysis of the latest AI projects, products, and news.
 - [Not A Bot](https://www.notabot.tech/?ref=altern.ai) - A free newsletter about AI, that's not written by AI. We bring the latest AI news to your inbox daily.
