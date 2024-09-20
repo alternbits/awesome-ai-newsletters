@@ -32,6 +32,7 @@ General
 Prompts
 --------
 
+- [Prompt Advance](https://promptadvance.club/) - Get Smarter About ChatGPT
 - [Prompts Daily](https://www.neatprompts.com/subscribe?ref=altern.ai) - Tools and tips to become a marketing and productivity genius at work.
 
 
