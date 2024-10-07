@@ -26,7 +26,8 @@ General
 - [AI Tool Report](https://aitoolreport.beehiiv.com/subscribe?ref=altern.ai) - We'll teach you how to save time and earn more with AI. 
 - [Syntha AI Newsletter](https://syntha.ai/?ref=altern.ai) - 5 minutes of Generative AI every week by PhD: cutting-edge techniques, innovative startups, and practical applications.
 - [Inside AI](https://inside.com/ai?ref=altern.ai). Weekly newsletter bringing you the latest in Artificial Intelligence, Robotics, and Neurotechnology.
-- [Import AI](https://twitter.us13.list-manage.com/subscribe?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c). The latest breakthroughs, applications and foul-ups in artificial intelligence. 
+- [Import AI](https://twitter.us13.list-manage.com/subscribe?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c). The latest breakthroughs, applications and foul-ups in artificial intelligence.
+- [Round Table AI](https://www.youtube.com/@RoundTableAI). The latest discussion on a virtual round table podcast about AI news, insights.
 
 
 Prompts
