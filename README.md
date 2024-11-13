@@ -9,12 +9,21 @@ A curated list of AI Related Newsletters
 - [AI Newsletters for Professionals](#for-professionals)
 
 
+*Related Lists*
+
+- [Marketing Newsletters](https://github.com/marketingtoolslist/awesome-marketing-newsletters)
+- [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)
+- [AI Directories](https://github.com/best-of-ai/ai-directories)
+
+
+
 General
 --------
 
 - [Altern Newsletter](http://newsletter.altern.ai) - Altern AI Newsletter
 - [There's an AI Newsletter](https://newsletter.theresanai.com) - The Best AI Newsletter
 - [Mindstream](https://mindstream.news?ref=altern.ai) - The hottest AI newsletter around. News, opinions, polls and so much more.
+- [Karalyst Newsletter](https://katalyst-tech.beehiiv.com/) - Your trusted guide into the tech world!
 - [AI Breakfast](https://aibreakfast.beehiiv.com/?ref=altern.ai) - Curated weekly analysis of the latest AI projects, products, and news.
 - [Not A Bot](https://www.notabot.tech/?ref=altern.ai) - A free newsletter about AI, that's not written by AI. We bring the latest AI news to your inbox daily.
 - [The Neuron](https://theneurondaily.com/subscribe?ref=altern.ai) - Don't fall behind on AI. Get the AI trends and tools you need to know. 
