@@ -21,7 +21,7 @@ General
 --------
 
 - [Altern Newsletter](http://newsletter.altern.ai) - Altern AI Newsletter
-- [There's an AI Newsletter](https://newsletter.theresanai.com) - The Best AI Newsletter
+- [The Biggest AI Newsletter](https://newsletter.theresanaiforthat.com/) - The Best AI Newsletter
 - [Mindstream](https://mindstream.news?ref=altern.ai) - The hottest AI newsletter around. News, opinions, polls and so much more.
 - [Karalyst Newsletter](https://katalyst-tech.beehiiv.com/) - Your trusted guide into the tech world!
 - [AI Breakfast](https://aibreakfast.beehiiv.com/?ref=altern.ai) - Curated weekly analysis of the latest AI projects, products, and news.
