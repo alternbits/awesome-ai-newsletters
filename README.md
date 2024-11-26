@@ -64,3 +64,6 @@ For Professionals
 - [True Positive Weekly](https://aiweekly.substack.com/?ref=altern.ai). The most important artificial intelligence and machine learning links of the week.
 
 
+Policy &amp; Post-AI Society
+--------
+* [Road to Artificia](http://roadtoartificia.com/?ref=altern.ai) - a newsletter about discovering the principles of societies, post‑AI
