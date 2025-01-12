@@ -37,6 +37,9 @@ General
 - [Inside AI](https://inside.com/ai?ref=altern.ai). Weekly newsletter bringing you the latest in Artificial Intelligence, Robotics, and Neurotechnology.
 - [Import AI](https://twitter.us13.list-manage.com/subscribe?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c). The latest breakthroughs, applications and foul-ups in artificial intelligence.
 - [BuzzRobot AI Newsletter](https://buzzrobot.substack.com/). Exclusive talks by top researchers on cutting-edge artificial intelligence papers.
+- [Trending AI Newsletter](https://tipseason.beehiiv.com/) - Trending AI Tips, News, Tools, Prompts and more. Get 600+ ChatGPT Prompts, 200+ AI Tools list FREE to subsribe.
+- [Top AI Newsletters list ](https://topainewsletters.com/) - A list of best AI newsletters in the industry to follow. 
+  
 
 Marketing
 ==========
