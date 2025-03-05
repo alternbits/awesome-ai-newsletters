@@ -1,7 +1,8 @@
 Awesome AI Newsletters
 ======================
 
-A curated list of AI Related Newsletters
+A curated list of top best AI Related Newsletters and ai agents newsletters.
+
 
 - [General AI Newsletters](#general)
 - [Prompts](#prompts)
