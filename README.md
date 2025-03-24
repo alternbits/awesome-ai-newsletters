@@ -64,6 +64,7 @@ For Professionals
 - [The Productivity Newsletter](https://newsletter.productivity.directory) - Make a Productive Life
 - [AI Marketing School](https://aimarketingschool.beehiiv.com/?ref=altern.ai) -The latest AI Marketing tools, techniques, and news delivered biweekly.
 - [Data Elixir](https://dataelixir.com/?ref=altern.ai). A weekly newsletter of the best data science news and resources from around the web. [Archive](https://dataelixir.com/newsletters/).
+- [LLMs Research](https://www.llmsresearch.com/subscribe) - Bi-weekly newsletter covering research papers improving large language model (LLMs) providing the best 10-minute reads to understand the latest research in LLMs.
 - [Artificial Intelligence Weekly](http://aiweekly.co/?ref=altern.ai). A weekly collection of the best news and resources on Artificial Intelligence amd Machine Learning.
 - [Machine Learnings](http://subscribe.machinelearnings.co/?ref=altern.ai). A weekly roundup of ML & AI news.
 - [The ML Engineer Newsletter](https://ethical.institute/mle.html?ref=altern.ai). Receive updates on open source frameworks, tutorials and articles curated by machine learning professionals. Obtain insights on best practices, tools and techniques in machine learning explainability, reproducibility, model evaluation, feature analysis and beyond.
