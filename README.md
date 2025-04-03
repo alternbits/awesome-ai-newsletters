@@ -22,6 +22,7 @@ General
 --------
 
 - [Altern Newsletter](http://newsletter.altern.ai) - Altern AI Newsletter
+- [Techpresso](https://dupple.com/techpresso) - Keep up with AI & Tech in 5 minutes Get the free daily email with the most interesting tech news and insights. The best way to stay ahead in just a few minutes.
 - [There's an AI Newsletter](https://newsletter.theresanai.com) - The Best AI Newsletter
 - [Mindstream](https://mindstream.news?ref=altern.ai) - The hottest AI newsletter around. News, opinions, polls and so much more.
 - [Karalyst Newsletter](https://katalyst-tech.beehiiv.com/) - Your trusted guide into the tech world!
