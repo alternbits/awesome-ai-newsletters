@@ -22,12 +22,11 @@ General
 --------
 
 - [Altern Newsletter](http://newsletter.altern.ai) - Altern AI Newsletter
-- [Super Human](https://www.superhuman.ai/) - Get the latest AI news, learn must-know AI tools, and keep up with tech news in just 3 minutes a day
+- [Super Human](https://www.superhuman.ai/subscribe?ref=altern.ai) - Get the latest AI news, learn must-know AI tools, and keep up with tech news in just 3 minutes a day
 - [There's an AI Newsletter](https://newsletter.theresanai.com) - The Best AI Newsletter
 - [AI Breakfast](https://aibreakfast.beehiiv.com/?ref=altern.ai) - Curated weekly analysis of the latest AI projects, products, and news.
 - [Not A Bot](https://www.notabot.tech/?ref=altern.ai) - A free newsletter about AI, that's not written by AI. We bring the latest AI news to your inbox daily.
 - [The Neuron](https://theneurondaily.com/subscribe?ref=altern.ai) - Don't fall behind on AI. Get the AI trends and tools you need to know. 
-- [Superhuman](https://www.joinsuperhuman.ai/subscribe?ref=altern.ai) - Learn how to leverage AI to boost your productivity and accelerate your career.
 - [Death to Humans](https://deathtohumans.beehiiv.com/?ref=altern.ai) - Your daily AI briefing in 3 minutes or less.
 - [FutureTools Weekly](https://futuretools.beehiiv.com/subscribe?ref=altern.ai) - 5 Innovative AI Tools, 3 Exciting News Articles, 3 Inspiring Videos, and 1 New Way to Make Money With AI... Delivered to your inbox weekly!
 - [The Loz Letter](https://www.loz.ai/subscribe?ref=altern.ai) - Insights & news into the wonderful world of AI.
