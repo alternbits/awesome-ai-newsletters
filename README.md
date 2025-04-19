@@ -22,9 +22,8 @@ General
 --------
 
 - [Altern Newsletter](http://newsletter.altern.ai) - Altern AI Newsletter
+- [Super Human](https://www.superhuman.ai/) - Get the latest AI news, learn must-know AI tools, and keep up with tech news in just 3 minutes a day
 - [There's an AI Newsletter](https://newsletter.theresanai.com) - The Best AI Newsletter
-- [Mindstream](https://mindstream.news?ref=altern.ai) - The hottest AI newsletter around. News, opinions, polls and so much more.
-- [Karalyst Newsletter](https://katalyst-tech.beehiiv.com/) - Your trusted guide into the tech world!
 - [AI Breakfast](https://aibreakfast.beehiiv.com/?ref=altern.ai) - Curated weekly analysis of the latest AI projects, products, and news.
 - [Not A Bot](https://www.notabot.tech/?ref=altern.ai) - A free newsletter about AI, that's not written by AI. We bring the latest AI news to your inbox daily.
 - [The Neuron](https://theneurondaily.com/subscribe?ref=altern.ai) - Don't fall behind on AI. Get the AI trends and tools you need to know. 
@@ -38,7 +37,6 @@ General
 - [Inside AI](https://inside.com/ai?ref=altern.ai). Weekly newsletter bringing you the latest in Artificial Intelligence, Robotics, and Neurotechnology.
 - [Import AI](https://twitter.us13.list-manage.com/subscribe?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c). The latest breakthroughs, applications and foul-ups in artificial intelligence.
 - [BuzzRobot AI Newsletter](https://buzzrobot.substack.com/). Exclusive talks by top researchers on cutting-edge artificial intelligence papers.
-
 
 AI Agents
 ==========
