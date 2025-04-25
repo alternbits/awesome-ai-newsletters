@@ -12,9 +12,10 @@ A curated list of top best AI Related Newsletters and ai agents newsletters.
 
 *Related Lists*
 
-- [Marketing Newsletters](https://github.com/marketingtoolslist/awesome-marketing-newsletters)
 - [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)
 - [AI Directories](https://github.com/best-of-ai/ai-directories)
+- [AI Agents Directories](https://github.com/alternbits/awesome-ai-agents-directories)
+- [Marketing Newsletters](https://github.com/marketingtoolslist/awesome-marketing-newsletters)
 
 
 
