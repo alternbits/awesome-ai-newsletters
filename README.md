@@ -44,12 +44,6 @@ AI Tools
 - [Altern AI Tools Newsletter](https://alternainewsletter.substack.com/s/ai-tools) - Find Cool AI Tools by Altern
 
 
-AI Agents
-==========
-
-- [AI Agents Simplified](https://aiagentssimplified.substack.com/?ref=altern.ai) - Simplifying AI Agents and Automation for Everyone.
-
-
 Marketing
 ==========
 
