@@ -74,6 +74,7 @@ For Professionals
 - [Machine Learnings](http://subscribe.machinelearnings.co/?ref=altern.ai). A weekly roundup of ML & AI news.
 - [The ML Engineer Newsletter](https://ethical.institute/mle.html?ref=altern.ai). Receive updates on open source frameworks, tutorials and articles curated by machine learning professionals. Obtain insights on best practices, tools and techniques in machine learning explainability, reproducibility, model evaluation, feature analysis and beyond.
 - [True Positive Weekly](https://aiweekly.substack.com/?ref=altern.ai). The most important artificial intelligence and machine learning links of the week.
+- [The AI Evaluation Substack](https://aievaluation.substack.com/). Monthly curated digest of AI evaluation research.
 
 
 Policy &amp; Post-AI Society
