@@ -23,6 +23,7 @@ General
 --------
 
 - [Altern Newsletter](http://newsletter.altern.ai) - Altern AI Newsletter
+- [AI For Developers](https://aifordevelopers.substack.com) - AI For Developers Newsletter
 - [Super Human](https://www.superhuman.ai/subscribe?ref=altern.ai) - Get the latest AI news, learn must-know AI tools, and keep up with tech news in just 3 minutes a day
 - [There's an AI Newsletter](https://newsletter.theresanai.com) - The Best AI Newsletter
 - [AI Breakfast](https://aibreakfast.beehiiv.com/?ref=altern.ai) - Curated weekly analysis of the latest AI projects, products, and news.
