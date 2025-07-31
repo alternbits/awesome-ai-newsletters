@@ -39,6 +39,7 @@ General
 - [Import AI](https://twitter.us13.list-manage.com/subscribe?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c). The latest breakthroughs, applications and foul-ups in artificial intelligence.
 - [BuzzRobot AI Newsletter](https://buzzrobot.substack.com/). Exclusive talks by top researchers on cutting-edge artificial intelligence papers.
 - [Finxter AI Nuggets](https://blog.finxter.com/ai/) - Learn powerful AI tools & AI productivity tips in a free daily email.
+- [AI++ Newsletter](https://news.langflow.org/) - News for developers covering the latest in AI, agents and MCP
 
 AI Tools
 =========
