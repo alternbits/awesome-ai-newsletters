@@ -40,7 +40,7 @@ General
 - [BuzzRobot AI Newsletter](https://buzzrobot.substack.com/). Exclusive talks by top researchers on cutting-edge artificial intelligence papers.
 - [Finxter AI Nuggets](https://blog.finxter.com/ai/) - Learn powerful AI tools & AI productivity tips in a free daily email.
 - [AI++ Newsletter](https://news.langflow.org/) - News for developers covering the latest in AI, agents and MCP
-- - [AIChief Newsletter](https://aichief.com/ai-newsletter/) - Join 200,000+ AI enthusiasts who learn something new every day. It’s not just another newsletter, it’s the world’s most Practical AI newsletter.
+- [AIChief Newsletter](https://aichief.com/ai-newsletter/) - Join 200,000+ AI enthusiasts who learn something new every day. It’s not just another newsletter, it’s the world’s most Practical AI newsletter.
 
 AI Tools
 =========
