@@ -40,7 +40,9 @@ General
 - [BuzzRobot AI Newsletter](https://buzzrobot.substack.com/). Exclusive talks by top researchers on cutting-edge artificial intelligence papers.
 - [Finxter AI Nuggets](https://blog.finxter.com/ai/) - Learn powerful AI tools & AI productivity tips in a free daily email.
 - [AI++ Newsletter](https://news.langflow.org/) - News for developers covering the latest in AI, agents and MCP
+- [Turing Post](https://www.turingpost.com/) - Newsletter exploring AI&ML - AI 101, Agentic Workflow, Business insights. From ML history to AI trends. 
 - [Techpresso](https://dupple.com/techpresso/) - The free daily email with the most interesting tech news and insights. The best way to stay ahead in just a few minutes.
+
 
 AI Tools
 =========
