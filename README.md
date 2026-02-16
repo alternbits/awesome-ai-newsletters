@@ -43,6 +43,7 @@ General
 - [Turing Post](https://www.turingpost.com/) - Newsletter exploring AI&ML - AI 101, Agentic Workflow, Business insights. From ML history to AI trends. 
 - [Techpresso](https://dupple.com/techpresso/) - The free daily email with the most interesting tech news and insights. The best way to stay ahead in just a few minutes.
 - [7min.ai](https://7min.ai/newsletter) - Daily AI news digest AI-curated from 20+ sources, prioritized by relevance, delivered in a 7-minute read. Neutral writing style.
+- [Adapt or Die](https://adaptordie.io) - Independent analysis of AI's impact on commerce, covering agentic commerce, AI infrastructure spending, and digital transformation. Long-form, opinionated takes with zero hype.
 
 
 AI Tools
