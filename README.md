@@ -22,6 +22,7 @@ A curated list of top best AI Related Newsletters and ai agents newsletters.
 General
 --------
 
+- [Signal AI Digest](https://humanintel.github.io/signal-digest-landing/) - AI-curated daily Telegram digest. Set your topics (AI, tech, investing, crypto, world news) and receive 5-10 curated items with source citations every day.
 - [Altern Newsletter](http://newsletter.altern.ai) - Altern AI Newsletter
 - [AI For Developers](https://aifordevelopers.substack.com) - AI For Developers Newsletter
 - [Super Human](https://www.superhuman.ai/subscribe?ref=altern.ai) - Get the latest AI news, learn must-know AI tools, and keep up with tech news in just 3 minutes a day
