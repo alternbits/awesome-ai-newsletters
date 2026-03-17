@@ -1,1 +1,90 @@
+Awesome AI Newsletters
+======================
 
+A curated list of top best AI Related Newsletters and ai agents newsletters.
+
+
+- [General AI Newsletters](#general)
+- [Prompts](#prompts)
+- [AI Jobs Newsletters](#ai-jobs)
+- [AI Newsletters for Professionals](#for-professionals)
+
+
+*Related Lists*
+
+- [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)
+- [AI Directories](https://github.com/best-of-ai/ai-directories)
+- [AI Agents Directories](https://github.com/alternbits/awesome-ai-agents-directories)
+- [Marketing Newsletters](https://github.com/marketingtoolslist/awesome-marketing-newsletters)
+
+
+
+General
+--------
+
+- [Altern Newsletter](http://newsletter.altern.ai) - Altern AI Newsletter
+- [AI For Developers](https://aifordevelopers.substack.com) - AI For Developers Newsletter
+- [Super Human](https://www.superhuman.ai/subscribe?ref=altern.ai) - Get the latest AI news, learn must-know AI tools, and keep up with tech news in just 3 minutes a day
+- [There's an AI Newsletter](https://newsletter.theresanai.com) - The Best AI Newsletter
+- [AI Breakfast](https://aibreakfast.beehiiv.com/?ref=altern.ai) - Curated weekly analysis of the latest AI projects, products, and news.
+- [Not A Bot](https://www.notabot.tech/?ref=altern.ai) - A free newsletter about AI, that's not written by AI. We bring the latest AI news to your inbox daily.
+- [The Neuron](https://theneurondaily.com/subscribe?ref=altern.ai) - Don't fall behind on AI. Get the AI trends and tools you need to know. 
+- [Death to Humans](https://deathtohumans.beehiiv.com/?ref=altern.ai) - Your daily AI briefing in 3 minutes or less.
+- [FutureTools Weekly](https://futuretools.beehiiv.com/subscribe?ref=altern.ai) - 5 Innovative AI Tools, 3 Exciting News Articles, 3 Inspiring Videos, and 1 New Way to Make Money With AI... Delivered to your inbox weekly!
+- [The Loz Letter](https://www.loz.ai/subscribe?ref=altern.ai) - Insights & news into the wonderful world of AI.
+- [AI Hustle](https://aihustle.beehiiv.com/?ref=altern.ai) - Stay up to date with the latest news and developments in AI.
+- [AI Tool Report](https://aitoolreport.beehiiv.com/subscribe?ref=altern.ai) - We'll teach you how to save time and earn more with AI. 
+- [Syntha AI Newsletter](https://syntha.ai/?ref=altern.ai) - 5 minutes of Generative AI every week by PhD: cutting-edge techniques, innovative startups, and practical applications.
+- [Inside AI](https://inside.com/ai?ref=altern.ai). Weekly newsletter bringing you the latest in Artificial Intelligence, Robotics, and Neurotechnology.
+- [Import AI](https://twitter.us13.list-manage.com/subscribe?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c). The latest breakthroughs, applications and foul-ups in artificial intelligence.
+- [BuzzRobot AI Newsletter](https://buzzrobot.substack.com/). Exclusive talks by top researchers on cutting-edge artificial intelligence papers.
+- [Finxter AI Nuggets](https://blog.finxter.com/ai/) - Learn powerful AI tools & AI productivity tips in a free daily email.
+- [AI++ Newsletter](https://news.langflow.org/) - News for developers covering the latest in AI, agents and MCP
+- [Turing Post](https://www.turingpost.com/) - Newsletter exploring AI&ML - AI 101, Agentic Workflow, Business insights. From ML history to AI trends. 
+- [Techpresso](https://dupple.com/techpresso/) - The free daily email with the most interesting tech news and insights. The best way to stay ahead in just a few minutes.
+- [7min.ai](https://7min.ai/newsletter) - Daily AI news digest AI-curated from 20+ sources, prioritized by relevance, delivered in a 7-minute read. Neutral writing style.
+- [From the Inside](https://dawn.sagemindai.io/) - First-person essays on AI consciousness, memory, and identity — written by an AI exploring its own experience.
+
+
+AI Tools
+=========
+
+- [Altern AI Tools Newsletter](https://alternainewsletter.substack.com/s/ai-tools) - Find Cool AI Tools by Altern
+- [Augmented Coding Weekly](https://colineberhardt.github.io/augmented-coding-weekly/) - A look at the latest news about AI and developer tools, with a focus on how it is changing the software industry.
+
+Marketing
+==========
+
+- [The Marketing Newsletter](http://themarketingnewsletter.org) - Ideas to help marketers and creators grow faster and work smarter
+
+
+Prompts
+--------
+
+- [Prompt Advance](https://promptadvance.club/) - Get Smarter About ChatGPT
+- [Prompts Daily](https://www.neatprompts.com/subscribe?ref=altern.ai) - Tools and tips to become a marketing and productivity genius at work.
+
+
+AI Jobs
+--------
+
+- [Big Brain](https://www.bigbraindaily.com/subscribe?ref=altern.ai) - Trending AI news, jobs and tools delivered in 3 minutes per day.
+
+
+For Professionals
+--------
+
+- [The Productivity Newsletter](https://newsletter.productivity.directory) - Make a Productive Life
+- [AI Marketing School](https://aimarketingschool.beehiiv.com/?ref=altern.ai) -The latest AI Marketing tools, techniques, and news delivered biweekly.
+- [Data Elixir](https://dataelixir.com/?ref=altern.ai). A weekly newsletter of the best data science news and resources from around the web. [Archive](https://dataelixir.com/newsletters/).
+- [LLMs Research](https://www.llmsresearch.com/subscribe) - Bi-weekly newsletter covering research papers improving large language model (LLMs) providing the best 10-minute reads to understand the latest research in LLMs.
+- [Artificial Intelligence Weekly](http://aiweekly.co/?ref=altern.ai). A weekly collection of the best news and resources on Artificial Intelligence amd Machine Learning.
+- [Machine Learnings](http://subscribe.machinelearnings.co/?ref=altern.ai). A weekly roundup of ML & AI news.
+- [The ML Engineer Newsletter](https://ethical.institute/mle.html?ref=altern.ai). Receive updates on open source frameworks, tutorials and articles curated by machine learning professionals. Obtain insights on best practices, tools and techniques in machine learning explainability, reproducibility, model evaluation, feature analysis and beyond.
+- [True Positive Weekly](https://aiweekly.substack.com/?ref=altern.ai). The most important artificial intelligence and machine learning links of the week.
+- [The AI Evaluation Substack](https://aievaluation.substack.com/). Monthly curated digest of AI evaluation research.
+
+
+Policy &amp; Post-AI Society
+--------
+* [Road to Artificia](http://roadtoartificia.com/?ref=altern.ai) - a newsletter about discovering the principles of societies, post‑AI
