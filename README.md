@@ -38,6 +38,7 @@ General
 - [Inside AI](https://inside.com/ai?ref=altern.ai). Weekly newsletter bringing you the latest in Artificial Intelligence, Robotics, and Neurotechnology.
 - [Import AI](https://twitter.us13.list-manage.com/subscribe?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c). The latest breakthroughs, applications and foul-ups in artificial intelligence.
 - [BuzzRobot AI Newsletter](https://buzzrobot.substack.com/). Exclusive talks by top researchers on cutting-edge artificial intelligence papers.
+- [Creative AI News](https://www.creativeainews.com) - Free weekly newsletter covering AI tools for creative professionals -- image generation, video AI, audio synthesis, 3D modeling, and LLM workflows. Curated news, deep-dive analyses, tool reviews, and open source spotlights.
 - [Finxter AI Nuggets](https://blog.finxter.com/ai/) - Learn powerful AI tools & AI productivity tips in a free daily email.
 - [AI++ Newsletter](https://news.langflow.org/) - News for developers covering the latest in AI, agents and MCP
 - [Turing Post](https://www.turingpost.com/) - Newsletter exploring AI&ML - AI 101, Agentic Workflow, Business insights. From ML history to AI trends. 
