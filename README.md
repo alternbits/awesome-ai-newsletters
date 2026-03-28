@@ -73,6 +73,7 @@ AI Jobs
 For Professionals
 --------
 
+- [AI Tools for Solopreneurs](https://suzunosukenagata-star.github.io/newsletter-bot/) - Weekly AI tools, automation tips, and copy-paste prompts for one-person businesses. Every Tuesday.
 - [The Productivity Newsletter](https://newsletter.productivity.directory) - Make a Productive Life
 - [AI Marketing School](https://aimarketingschool.beehiiv.com/?ref=altern.ai) -The latest AI Marketing tools, techniques, and news delivered biweekly.
 - [Data Elixir](https://dataelixir.com/?ref=altern.ai). A weekly newsletter of the best data science news and resources from around the web. [Archive](https://dataelixir.com/newsletters/).
