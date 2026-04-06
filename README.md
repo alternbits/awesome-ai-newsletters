@@ -87,3 +87,4 @@ For Professionals
 Policy &amp; Post-AI Society
 --------
 * [Road to Artificia](http://roadtoartificia.com/?ref=altern.ai) - a newsletter about discovering the principles of societies, post‑AI
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration. Free and open-source. MIT licensed.
