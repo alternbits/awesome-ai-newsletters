@@ -73,6 +73,7 @@ AI Jobs
 For Professionals
 --------
 
+- [8bitconcepts Research](https://8bitconcepts.com/) - Independent research on enterprise AI strategy, governance, and operational risk. Practical papers for executives and engineering leaders on topics like agentic accountability, hallucination budgets, and AI ROI measurement. [RSS](https://8bitconcepts.com/feed.xml).
 - [The Productivity Newsletter](https://newsletter.productivity.directory) - Make a Productive Life
 - [AI Marketing School](https://aimarketingschool.beehiiv.com/?ref=altern.ai) -The latest AI Marketing tools, techniques, and news delivered biweekly.
 - [Data Elixir](https://dataelixir.com/?ref=altern.ai). A weekly newsletter of the best data science news and resources from around the web. [Archive](https://dataelixir.com/newsletters/).
