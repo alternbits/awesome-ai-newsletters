@@ -84,6 +84,9 @@ For Professionals
 - [The AI Evaluation Substack](https://aievaluation.substack.com/). Monthly curated digest of AI evaluation research.
 - [DiamantAI](https://newsletter.diamant-ai.com) - AI engineering newsletter by Nir Diamant with deep-dive tutorials on RAG, AI agents, and LLM engineering, from the author of open-source repos with 80k+ combined GitHub stars.
 - [Chain of Thought](https://newsletter.chainofthought.show/) - AI engineering interviews and writeups on agents, evals, and LLMOps from podcast host Conor Bronsdon.
+- [Ahead of AI](https://magazine.sebastianraschka.com/) - Sebastian Raschka's deeply technical deep dives on LLM architectures, training, and research.
+- [Interconnects](https://www.interconnects.ai/) - Nathan Lambert's essays and model reviews on how frontier and open models are trained.
+- [Hamel Husain's Blog](https://hamel.dev/) - hands-on writeups on LLM evals, error analysis, and shipping AI products to production.
 
 
 Policy &amp; Post-AI Society
