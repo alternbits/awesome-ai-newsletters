@@ -73,6 +73,7 @@ AI Jobs
 For Professionals
 --------
 
+- [iamin.digital](https://iamin.digital/) - French weekly AI newsletter for SMBs: practical n8n automation workflows, open glossary, no hype.
 - [The Productivity Newsletter](https://newsletter.productivity.directory) - Make a Productive Life
 - [AI Marketing School](https://aimarketingschool.beehiiv.com/?ref=altern.ai) -The latest AI Marketing tools, techniques, and news delivered biweekly.
 - [Data Elixir](https://dataelixir.com/?ref=altern.ai). A weekly newsletter of the best data science news and resources from around the web. [Archive](https://dataelixir.com/newsletters/).
