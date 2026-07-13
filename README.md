@@ -51,6 +51,8 @@ AI Tools
 - [Altern AI Tools Newsletter](https://alternainewsletter.substack.com/s/ai-tools) - Find Cool AI Tools by Altern
 - [Augmented Coding Weekly](https://colineberhardt.github.io/augmented-coding-weekly/) - A look at the latest news about AI and developer tools, with a focus on how it is changing the software industry.
 
+- [AIMiracle MAG](https://aimiracle.ai) - Daily AI news, tool discoveries & tutorials
+
 Marketing
 ==========
 
@@ -87,4 +89,4 @@ For Professionals
 
 Policy &amp; Post-AI Society
 --------
-* [Road to Artificia](http://roadtoartificia.com/?ref=altern.ai) - a newsletter about discovering the principles of societies, post‑AI
+* [Road to Artificia](http://roadtoartificia.com/?ref=altern.ai) - a newsletter about discovering the principles of societies, postâAI
