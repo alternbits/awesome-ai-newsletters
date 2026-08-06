@@ -83,6 +83,7 @@ For Professionals
 - [True Positive Weekly](https://aiweekly.substack.com/?ref=altern.ai). The most important artificial intelligence and machine learning links of the week.
 - [The AI Evaluation Substack](https://aievaluation.substack.com/). Monthly curated digest of AI evaluation research.
 - [DiamantAI](https://newsletter.diamant-ai.com) - AI engineering newsletter by Nir Diamant with deep-dive tutorials on RAG, AI agents, and LLM engineering, from the author of open-source repos with 80k+ combined GitHub stars.
+- [ELECTE Newsletter](https://newsletter.electe.net/) — Weekly analysis on AI, financial forecasting, and technology strategy for European business leaders
 
 
 Policy &amp; Post-AI Society
