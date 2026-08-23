@@ -23,6 +23,7 @@ General
 --------
 
 - [Altern Newsletter](http://newsletter.altern.ai) - Altern AI Newsletter
+- [Ultrathink](https://ai-morning-report-landing.vercel.app) - Daily Korean AI newsletter for non-developers: the 7 stories that actually change your tools, costs, and workflow, in a 5-minute read
 - [AI For Developers](https://aifordevelopers.substack.com) - AI For Developers Newsletter
 - [Super Human](https://www.superhuman.ai/subscribe?ref=altern.ai) - Get the latest AI news, learn must-know AI tools, and keep up with tech news in just 3 minutes a day
 - [There's an AI Newsletter](https://newsletter.theresanai.com) - The Best AI Newsletter
