@@ -43,13 +43,14 @@ General
 - [Turing Post](https://www.turingpost.com/) - Newsletter exploring AI&ML - AI 101, Agentic Workflow, Business insights. From ML history to AI trends. 
 - [Techpresso](https://dupple.com/techpresso/) - The free daily email with the most interesting tech news and insights. The best way to stay ahead in just a few minutes.
 - [7min.ai](https://7min.ai/newsletter) - Daily AI news digest AI-curated from 20+ sources, prioritized by relevance, delivered in a 7-minute read. Neutral writing style.
-
+- [sAIgnals](https://saignals.buzz/newsletter) - A monthly, source-backed newsletter tracking high-signal updates across AI coding tools.
 
 AI Tools
 =========
 
 - [Altern AI Tools Newsletter](https://alternainewsletter.substack.com/s/ai-tools) - Find Cool AI Tools by Altern
 - [Augmented Coding Weekly](https://colineberhardt.github.io/augmented-coding-weekly/) - A look at the latest news about AI and developer tools, with a focus on how it is changing the software industry.
+- [sAIgnals](https://saignals.buzz) - A source-backed AI coding platform and monthly newsletter featuring high-signal updates, reports, practical articles, and trending repositories.
 
 Marketing
 ==========
