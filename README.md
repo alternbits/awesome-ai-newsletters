@@ -20,6 +20,7 @@ A curated list of top best AI Related Newsletters and ai agents newsletters.
 
 
 General
+- [Hashgraph Online Blog](https://hol.org/blog) - Open standards for AI agent identity, trust, verification, and P2P communication on the agentic internet.
 --------
 
 - [Altern Newsletter](http://newsletter.altern.ai) - Altern AI Newsletter
