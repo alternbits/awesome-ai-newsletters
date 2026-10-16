@@ -44,7 +44,7 @@ General
 - [Techpresso](https://dupple.com/techpresso/) - The free daily email with the most interesting tech news and insights. The best way to stay ahead in just a few minutes.
 - [7min.ai](https://7min.ai/newsletter) - Daily AI news digest AI-curated from 20+ sources, prioritized by relevance, delivered in a 7-minute read. Neutral writing style.
 
-- [Ship AI Brief](https://colaps1s.github.io/ship-ai-brief/) - Free English AI and technology digest on Telegram, with original visual cards, short summaries, source links and limitations; up to three stories per weekday.
+- [AI Got Weird](https://colaps1s.github.io/ship-ai-brief/) - Free English Telegram digest of strange AI breakthroughs, useful tools and consequential failures, with short visual stories, original sources and clear limitations.
 
 
 AI Tools
