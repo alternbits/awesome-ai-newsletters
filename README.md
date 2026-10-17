@@ -43,6 +43,7 @@ General
 - [Turing Post](https://www.turingpost.com/) - Newsletter exploring AI&ML - AI 101, Agentic Workflow, Business insights. From ML history to AI trends. 
 - [Techpresso](https://dupple.com/techpresso/) - The free daily email with the most interesting tech news and insights. The best way to stay ahead in just a few minutes.
 - [7min.ai](https://7min.ai/newsletter) - Daily AI news digest AI-curated from 20+ sources, prioritized by relevance, delivered in a 7-minute read. Neutral writing style.
+- [Calder Brief AI Hub](https://calder-brief.pages.dev/ai-hub.html) - Curated hub of AI news, resources, and research coverage.
 
 
 AI Tools
@@ -82,8 +83,7 @@ For Professionals
 - [The ML Engineer Newsletter](https://ethical.institute/mle.html?ref=altern.ai). Receive updates on open source frameworks, tutorials and articles curated by machine learning professionals. Obtain insights on best practices, tools and techniques in machine learning explainability, reproducibility, model evaluation, feature analysis and beyond.
 - [True Positive Weekly](https://aiweekly.substack.com/?ref=altern.ai). The most important artificial intelligence and machine learning links of the week.
 - [The AI Evaluation Substack](https://aievaluation.substack.com/). Monthly curated digest of AI evaluation research.
-- [DiamantAI](https://newsletter.diamant-ai.com) - AI engineering newsletter by Nir Diamant with deep-dive tutorials on RAG, AI agents, and LLM engineering, from the author of open-source repos with 80k+ combined GitHub stars.
-
+- [ELECTE Newsletter](https://newsletter.electe.net/). Weekly analysis on AI, financial forecasting, and technology strategy for European business leaders.
 
 Policy &amp; Post-AI Society
 --------
