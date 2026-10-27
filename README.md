@@ -50,6 +50,7 @@ AI Tools
 
 - [Altern AI Tools Newsletter](https://alternainewsletter.substack.com/s/ai-tools) - Find Cool AI Tools by Altern
 - [Augmented Coding Weekly](https://colineberhardt.github.io/augmented-coding-weekly/) - A look at the latest news about AI and developer tools, with a focus on how it is changing the software industry.
+- [AI Vibe Check](https://aivibecheck.beehiiv.com/?utm_source=github&utm_medium=community&utm_campaign=awesome-ai-newsletters) - Weekday brief for builders and vibe coders on new models, coding agents and dev tools, plus a copy-paste agent prompt in every issue.
 
 Marketing
 ==========
