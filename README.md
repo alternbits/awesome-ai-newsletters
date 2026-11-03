@@ -50,6 +50,7 @@ AI Tools
 
 - [Altern AI Tools Newsletter](https://alternainewsletter.substack.com/s/ai-tools) - Find Cool AI Tools by Altern
 - [Augmented Coding Weekly](https://colineberhardt.github.io/augmented-coding-weekly/) - A look at the latest news about AI and developer tools, with a focus on how it is changing the software industry.
+- [Devtoolwatch](https://www.devtoolwatch.com/) - A free Monday email ranking AI developer tools (coding agents, MCP servers, agent frameworks, evals) by new GitHub stars and npm/PyPI download growth, with every number linked to its source.
 
 Marketing
 ==========
