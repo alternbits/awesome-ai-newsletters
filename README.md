@@ -50,6 +50,7 @@ AI Tools
 
 - [Altern AI Tools Newsletter](https://alternainewsletter.substack.com/s/ai-tools) - Find Cool AI Tools by Altern
 - [Augmented Coding Weekly](https://colineberhardt.github.io/augmented-coding-weekly/) - A look at the latest news about AI and developer tools, with a focus on how it is changing the software industry.
+- [Agentic Weekly](https://theagenticweekly.com/newsletter) - A free Monday email on the week's AI agent and coding tool releases, with an update, try or skip call and a source for each, then five use cases with prompts you can paste.
 
 Marketing
 ==========
